@@ -1,0 +1,32 @@
+<svg width="1917" height="958" viewBox="0 0 1917 958" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="956.5" cy="976.5" r="789.5" fill="url(#paint0_radial_0_1)"/>
+<path d="M1916.5 455H1523.8C1518.19 455 1512.84 457.352 1509.06 461.482L1426.94 551.018C1423.16 555.148 1417.81 557.5 1412.2 557.5H1072" stroke="#5548C7" stroke-dasharray="4 4"/>
+<path d="M0 193.5H266.947C271.815 193.5 276.515 191.725 280.168 188.507L373.832 105.993C377.485 102.775 382.185 101 387.053 101H510" stroke="#5548C7" stroke-dasharray="4 4"/>
+<path d="M1298 11.5H1525.68C1529.17 11.5 1532.59 12.4097 1535.61 14.1391L1661.89 86.3609C1664.91 88.0903 1668.33 89 1671.82 89H1916" stroke="#5548C7" stroke-dasharray="4 4"/>
+<path d="M105.5 593.5H285.18C290.208 593.5 295.051 595.394 298.746 598.804L430.254 720.196C433.949 723.606 438.792 725.5 443.82 725.5H561.5" stroke="#5548C7" stroke-dasharray="4 4"/>
+<path d="M1361 794H1529.18C1533.6 794 1537.9 795.467 1541.4 798.171L1631.6 867.829C1635.1 870.533 1639.4 872 1643.82 872H1915.5" stroke="#5548C7" stroke-dasharray="4 4"/>
+<circle cx="956.5" cy="976.5" r="650.5" fill="#1C002C" fill-opacity="0.1"/>
+<circle cx="956.5" cy="976.5" r="558.5" fill="#1C002C" fill-opacity="0.2"/>
+<circle cx="956.5" cy="976.5" r="468.5" fill="#1C002C" fill-opacity="0.3"/>
+<circle cx="956.5" cy="976.5" r="374.5" fill="#1C002C" fill-opacity="0.4"/>
+<circle cx="956.5" cy="976.5" r="271.5" fill="#1C002C" fill-opacity="0.5"/>
+<circle cx="508.5" cy="100.5" r="5.5" fill="#4A3BD1"/>
+<circle cx="508.5" cy="100.5" r="8.5" stroke="#5548C7" stroke-opacity="0.38" stroke-width="6"/>
+<circle cx="1292.5" cy="11.5" r="5.5" fill="#4A3BD1"/>
+<circle cx="1292.5" cy="11.5" r="8.5" stroke="#5548C7" stroke-opacity="0.38" stroke-width="6"/>
+<circle cx="1515.5" cy="455.5" r="5.5" fill="#4A3BD1"/>
+<circle cx="1515.5" cy="455.5" r="8.5" stroke="#5548C7" stroke-opacity="0.38" stroke-width="6"/>
+<circle cx="1879.5" cy="872.5" r="5.5" fill="#4A3BD1"/>
+<circle cx="1879.5" cy="872.5" r="8.5" stroke="#5548C7" stroke-opacity="0.38" stroke-width="6"/>
+<circle cx="103.5" cy="593.5" r="5.5" fill="#4A3BD1"/>
+<circle cx="103.5" cy="593.5" r="8.5" stroke="#5548C7" stroke-opacity="0.38" stroke-width="6"/>
+<circle cx="273.5" cy="192.5" r="5.5" fill="#4A3BD1"/>
+<circle cx="273.5" cy="192.5" r="8.5" stroke="#5548C7" stroke-opacity="0.38" stroke-width="6"/>
+<defs>
+<radialGradient id="paint0_radial_0_1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(956.5 976.5) rotate(180) scale(789.5)">
+<stop offset="0.21" stop-color="#C167F6"/>
+<stop offset="0.48" stop-color="#5548C7"/>
+<stop offset="1" stop-color="#1C002C" stop-opacity="0"/>
+</radialGradient>
+</defs>
+</svg>

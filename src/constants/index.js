@@ -1,0 +1,1 @@
+export const menuItems = ["home", "get started", "pricing"];
