@@ -3,6 +3,7 @@ import React from "react";
 import { Content, Header } from "./container";
 import "./App.scss";
 import Pricing from "./components/Pricing/Pricing";
+import YoutubeVideos from './components/videos/YoutubeVideos';
 
 const App = () => {
   return (
@@ -10,6 +11,7 @@ const App = () => {
       <Header />
       <Content />
       <Pricing />
+      <YoutubeVideos />
     </div>
   );
 };
